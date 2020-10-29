@@ -1,1 +1,1 @@
-# truchat
+# freechat
