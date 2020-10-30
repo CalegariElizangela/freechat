@@ -1,1 +1,1 @@
-# freechat
+# FreeChat
